@@ -1,0 +1,267 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: right # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Rodolphe Beck
+    tagline: IT Operations Director
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: rodolphe.beck@escpalumni.org
+    phone: 0663860930
+    timezone: Europe/Paris # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    citizenship: 
+    #website: https://photos.rbeck.net/ # Include the full website URL, including "http://" or "https://".
+    linkedin: rodbeck
+    #xing: alandoe
+    github: rodbeck
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: '@jekyllrb'
+    stack-overflow: 5941118/rodolphe-beck # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #mastodon:  # Please include your full Mastodon link here.
+    #hackerrank: # Please provide your HackerRank username.
+    #leetcode: # Please provide your LeetCode username.
+    #pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+
+    languages:
+      title: Languages
+      info:
+        - idiom: French
+          level: Native
+
+        - idiom: English
+          level: Professional
+
+    interests:
+      title: Interests
+      info:
+        - item: Photography
+          link: https://photos.rbeck.net
+
+        - item: Cooking
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Results-oriented operations director. With 14 years of experience in managing
+      technology teams and stimulating innovation to achieve business goals. A proven track
+      record in developing and implementing technology strategies aimed at improving
+      operations, reducing costs, and stimulating revenue growth.
+      Looking for a technical director position to leverage my expertise in leadership and
+      strategic planning.
+education:
+    title: Education
+    info:
+      - degree: Specialized Master in E-Business
+        university: ESCP Business School
+        time: 2004 - 2005
+  #      details: |
+  #        The ESCP Specialized Master’s in E-Business prepares e-business 
+  #        experts by combining practical knowledge of the sector with a strategic understanding of the net economy. 
+  #        The program focuses on mastering multi-channel management and theoretical frameworks, 
+  #        enriched by international exposure and professional experience.
+      - degree: Master of Science Network & Telecommunications
+        university: University of Paris-Saclay
+        time: 2003 - 2004
+  #      details: |
+  #        Master of Science in network and Telecommunications
+  #          - Bullet point
+  #          - Bullet point
+      - degree: BSc & MSc Electronics, Electrotecnics & Automation
+        university: University of Paris Jussieu
+        time: 2001 - 2003
+experiences:
+    title: Experiences
+    info:
+      - role: Head of Global Datacenters & Cloud Services
+        time: 2017 - Present
+        company: Sodexo, Issy-les-Moulineaux
+        details: |
+          Management of infrastructure and operations for Sodexo countries by implementing a multimodal approach.
+          Led the datacenter strategy by implementing an hybrid cloud approach and rationalized the datacenter locations.
+          Manage the global contracts for the perimeter.
+          Led the RFP and transition to new Management Service Provider.
+
+            - Management of multidiciplinary and international team (20 people).
+            - Implemented hyperconverged datacenter blueprint, reducing datacenter surface by 30%.
+            - Led the global virtualization strategy.
+            - Management of budget, forecast and recharges (40M€).
+            - Introduction of recycling in the procurement process.
+            - Implemented Datadog and observability processes.
+            - Led the IT for IT developments for tools integration.
+
+      - role: Global Datacenter & Cloud Services Manager
+        time: 2017 - 2020
+        company: Sodexo, Issy-les-Moulineaux
+        details: |
+          Responsible for the datacenter operations management team.
+          Supervision of the daily operations, ensuring the availability and reliability of the infrastructures.
+          Management of the management service provider and control of the SLA.
+            - Implementation of the DRP platform
+            - Implementation of FinOps tools and practices
+
+      - role: Informations System Manager
+        time: 2009 - 2017
+        company: Talentsoft, Boulogne Billancourt
+        details: |
+          Responsible of the engineers team for the SaaS application infrastructure, automation and deployment.
+          Responsible of the internal IT support, procurement and maintenance.
+            - Budget management
+            - Development of deployment automation for the SaaS application on the servers
+            - Implementation of new office locations
+            - Conversion of the SaaS application to Microsoft Azure
+            - Migration to Office 365
+
+      - role: IT Consultant
+        time: 2004 - 2009
+        company: IBM, La Défense
+        details: |
+          Missions of development, integration and project management for multiple customers in the Telecom and Media division.
+            - Development team management
+            - Java/J2EE developments
+            - Implementation of Highdeal
+            
+certifications:
+      title: Certifications
+      list:
+        - name: SAFe 4 Program Consultant
+          start: 2019
+          end: 
+          organization: Scaled Agile Inc.
+          #credentialid: 111-222
+          #credentialurl: www.google.com
+          #credentialname: Google
+          details: |
+            This certification teaches how to ead a Lean-Agile transformation by leveraging the practices and principles of the 
+            Scaled Agile Framework® (SAFe®), as well as the five core competencies of the Lean Enterprise.
+
+        - name: ISO 20000 Foundation
+          start: 2017
+          end:
+          organization: Exin
+          #credentialid: 111-222
+          #credentialurl: www.github.com
+          #credentialname: Github
+          details: |
+            This certification presents concepts of service management and the requirements of ISO/IEC 20000-1 for a service management system (SMS).
+
+        - name: ITIL Foundation V3
+          start: 2011
+          end:
+          organization: Axelos
+          #credentialid: 111-222
+          #credentialurl: www.github.com
+          #credentialname: Github
+          details: |
+            ITIL v3 Foundation is a course that teaches fundamental concepts, components and terminologies of the ITIL framework.
+
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+#oss:
+#    title: OSS Contributions
+#    intro: >
+#      You can list your open source software contributions in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    contributions:
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      
+    papers:
+      - title: "Analyse de la pratique de mise en document de l'information de pilotage en entreprise : le
+        document au cours de la structuration et de la restitution d'indicateurs"
+        link: "http://europia.org/CIDE12/Programme.htm"
+        authors: Samuel Parfouru, Rodolphe Beck
+        conference: CIDE 12 Europia 2009
+
+      - title: "De l’écriture d’un document à la génération d’un hypertexte décisionnel - Analyse et instrumentation du cycle de vie d’un tableau de bord de pilotage dans le secteur de la production d’énergie"
+        link: "#"
+        authors: Samuel Parfouru, Rodolphe Beck
+        conference: "H2PTM - Lavoisier"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Leadership
+        #level:
+
+      - name: Team management
+        #level: 
+
+      - name: Budget management
+        #level: 
+
+      - name: International program management
+        #level: 
+
+      - name: International program management
+        #level: 
+
+      - name: Strategic planning
+        #level: 
+
+      - name: Risk management
+        #level: 
+
+      - name: Agile methodologies
+        #level: 
+        
+      - name: IT Security & Compliance
+        #level: 
+
+      - name: Microsoft Azure Services
+        #level: 100%
+
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
