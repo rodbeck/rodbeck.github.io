@@ -91,16 +91,19 @@ experiences:
         details: |
           Management of infrastructure and operations for Sodexo countries by implementing a multimodal approach.
           Led the datacenter strategy by implementing an hybrid cloud approach and rationalized the datacenter locations.
-          Manage the global contracts for the perimeter.
-          Led the RFP and transition to new Management Service Provider.
-
+          Ensured scalable, secure and high-performance infrastructure to support the organization's global business needs.
+          Drive innovation, manage large-scale projects and align the datacenter and cloud strategy with business objectives
+          while ensuring compliance and operational excellence.
             - Management of multidiciplinary and international team (20 people).
             - Implemented hyperconverged datacenter blueprint, reducing datacenter surface by 30%.
             - Led the global virtualization strategy.
+            - Led the RFP and transition to new Management Service Provider.
             - Management of budget, forecast and recharges (40M€).
             - Introduction of recycling in the procurement process.
             - Implemented Datadog and observability processes.
+            - Implemented Tanium for endpoint management and increased patching conformity from 60% to 98%
             - Led the IT for IT developments for tools integration.
+            - Implemented a global TCO model to link the recharges with the expenses.
 
       - role: Global Datacenter & Cloud Services Manager
         time: 2017 - 2020
@@ -110,7 +113,10 @@ experiences:
           Supervision of the daily operations, ensuring the availability and reliability of the infrastructures.
           Management of the management service provider and control of the SLA.
             - Implementation of the DRP platform
-            - Implementation of FinOps tools and practices
+            - Implementation of Apptio for reinvoicing
+            - Implementation of Dynamics 365 CRM for internal recharges
+            - Implementation of the Global APIM Platform
+            - Implementation of Global Azure Products for Automation
 
       - role: Informations System Manager
         time: 2009 - 2017
