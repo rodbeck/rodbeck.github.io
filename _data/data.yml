@@ -243,10 +243,7 @@ skills:
         #level: 
 
       - name: International program management
-        #level: 
-
-      - name: Strategic planning
-        #level: 
+        #level:
 
       - name: Risk management
         #level: 
@@ -256,9 +253,6 @@ skills:
         
       - name: IT Security & Compliance
         #level: 
-
-      - name: Microsoft Azure Services
-        #level: 100%
 
 
 footer: >
