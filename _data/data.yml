@@ -87,58 +87,55 @@ experiences:
     title: Experiences
     info:
       - role: Head of Global Datacenters & Cloud Services
-        time: 2017 - Present
+        time: 2020 - Present
         company: Sodexo, Issy-les-Moulineaux
         details: |
-          Management of infrastructure and operations for Sodexo countries by implementing a multimodal approach.
-          Led the datacenter strategy by implementing an hybrid cloud approach and rationalized the datacenter locations.
-          Ensured scalable, secure and high-performance infrastructure to support the organization's global business needs.
-          Drive innovation, manage large-scale projects and align the datacenter and cloud strategy with business objectives
-          while ensuring compliance and operational excellence.
-            - Management of multidiciplinary and international team (20 people).
+          Defined and implemented the IT strategy for the Datacenters and Cloud services to implement a scalable, secure and high-performance infrastructure to support the organization's global business needs.
+          Set the vision and direction for streamlining IT operations, with a focus on reducing manual workloads and improving service delivery across the organization.
+            - Managed a multidiciplinary and international team (20 people).
+            - Managed a multi-million euros budget, ensuring all IT investments support the company's long-term financial and strategic goals.
+            - Established the strategic priorities for IT asset management, including the procurement, lifecycle management, and optimization of company assets.
             - Implemented hyperconverged datacenter blueprint, reducing datacenter surface by 30%.
             - Led the global virtualization strategy.
             - Led the RFP and transition to new Management Service Provider.
-            - Management of budget, forecast and recharges (40M€).
-            - Introduction of recycling in the procurement process.
             - Implemented Datadog and observability processes.
-            - Implemented Tanium for endpoint management and increased patching conformity from 60% to 98%
-            - Led the IT for IT developments for tools integration.
+            - Implemented Tanium for endpoint management and increased patching conformity from 60% to 98%.
+            - Led the IT for IT developments for tools integration and automation.
             - Implemented a global TCO model to link the recharges with the expenses.
+            - Responsible for Incident Management, Problem Management and Knowledge Management.
+            - Accountable for internal audit.
 
       - role: Global Datacenter & Cloud Services Manager
         time: 2017 - 2020
         company: Sodexo, Issy-les-Moulineaux
         details: |
-          Responsible for the datacenter operations management team.
-          Supervision of the daily operations, ensuring the availability and reliability of the infrastructures.
-          Management of the management service provider and control of the SLA.
-            - Implementation of the DRP platform
-            - Implementation of Apptio for reinvoicing
-            - Implementation of Dynamics 365 CRM for internal recharges
-            - Implementation of the Global APIM Platform
-            - Implementation of Global Azure Products for Automation
+            - Management of the operations managers team.
+            - Supervision of the daily operations ensuring the availability and reliability of the infrastructures.
+            - Implementation of the DRP platform and procedures.
+            - Implementation of Apptio for reinvoicing.
+            - Implementation of Dynamics 365 CRM for internal recharges.
+            - Implementation of the Global APIM Platform.
+            - Implementation of Global Azure Products for Automation.
 
       - role: Informations System Manager
         time: 2009 - 2017
         company: Talentsoft, Boulogne Billancourt
         details: |
-          Responsible of the engineers team for the SaaS application infrastructure, automation and deployment.
-          Responsible of the internal IT support, procurement and maintenance.
-            - Budget management
-            - Development of deployment automation for the SaaS application on the servers
-            - Implementation of new office locations
-            - Conversion of the SaaS application to Microsoft Azure
-            - Migration to Office 365
+          Management of the engineers team for the SaaS application infrastructure, automation and deployment.
+          Management of the internal IT support, procurement and maintenance.
+            - Development of deployment automation for the SaaS application in production.
+            - Implementation of new office locations.
+            - Conversion of the SaaS application to Microsoft Azure.
+            - Migration to Office 365.
 
       - role: IT Consultant
         time: 2004 - 2009
         company: IBM, La Défense
         details: |
           Missions of development, integration and project management for multiple customers in the Telecom and Media division.
-            - Development team management
-            - Java/J2EE developments
-            - Implementation of Highdeal
+            - Development team management.
+            - Java/J2EE developments.
+            - Implementation of Highdeal.
             
 certifications:
       title: Certifications
@@ -244,6 +241,9 @@ skills:
         #level:
 
       - name: Team management
+        #level: 
+
+      - name: Strategic management
         #level: 
 
       - name: Budget management
