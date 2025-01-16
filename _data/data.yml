@@ -83,6 +83,21 @@ education:
       - degree: BSc & MSc Electronics, Electrotecnics & Automation
         university: University of Paris Jussieu
         time: 2001 - 2003
+achievements:
+    title: Achievements
+    info:
+      - title: FinOps
+        details: |
+          Built and led the FinOps teams, processes, tools and practices saving 2M€ in Azure costs in 3 years.
+      - title: Hyperconverged Infrastructure
+        details: |
+          Led the renewal of Datacenter Infrastructure, implementing Hyperconvergence and saving 20% in renewal fees by globalizing the virtualization contract
+      - title: Management Service Contract.
+        details: |
+          Led the transition of the global management service contract from RFP to operational implementation.
+      - title: Move to cloud
+        details: Led the MCO of move to cloud projects.
+
 experiences:
     title: Experiences
     info:
